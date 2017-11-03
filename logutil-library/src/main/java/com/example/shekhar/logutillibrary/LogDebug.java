@@ -12,6 +12,8 @@ public class LogDebug {
 
     public static void d(String message) {
         Log.d(TAG, message);
+
+
     }
 
 }
