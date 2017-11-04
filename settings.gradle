@@ -1,1 +1,1 @@
-include ':app', ':logutil-library'
+include ':app', ':logutil-library', ':error-util'
